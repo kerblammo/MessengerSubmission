@@ -1,0 +1,11 @@
+C:\0-Data\SchoolProjects\C#\Term2\Projects\TheMessenger\TheMessenger\bin\Debug\TheMessenger.exe.config
+C:\0-Data\SchoolProjects\C#\Term2\Projects\TheMessenger\TheMessenger\bin\Debug\TheMessenger.exe
+C:\0-Data\SchoolProjects\C#\Term2\Projects\TheMessenger\TheMessenger\bin\Debug\TheMessenger.pdb
+C:\0-Data\SchoolProjects\C#\Term2\Projects\TheMessenger\TheMessenger\obj\Debug\TheMessenger.Properties.Resources.resources
+C:\0-Data\SchoolProjects\C#\Term2\Projects\TheMessenger\TheMessenger\obj\Debug\TheMessenger.csproj.GenerateResource.Cache
+C:\0-Data\SchoolProjects\C#\Term2\Projects\TheMessenger\TheMessenger\obj\Debug\TheMessenger.exe
+C:\0-Data\SchoolProjects\C#\Term2\Projects\TheMessenger\TheMessenger\obj\Debug\TheMessenger.pdb
+C:\0-Data\SchoolProjects\C#\Term2\Projects\TheMessenger\TheMessenger\obj\Debug\TheMessenger.frmLogin.resources
+C:\0-Data\SchoolProjects\C#\Term2\Projects\TheMessenger\TheMessenger\obj\Debug\TheMessenger.csprojResolveAssemblyReference.cache
+C:\0-Data\SchoolProjects\C#\Term2\Projects\TheMessenger\TheMessenger\obj\Debug\TheMessenger.frmMessenger.resources
+C:\0-Data\SchoolProjects\C#\Term2\Projects\TheMessenger\TheMessenger\obj\Debug\TheMessenger.frmSettings.resources
