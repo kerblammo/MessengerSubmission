@@ -13,3 +13,10 @@ Open the TheMessenger.sln file to open the program in your IDE of choice. Then r
 
 ## Tests
 There aren't any. While this is horrible, it's also something that hasn't been coverd by the curriculum.
+
+## Authors
+* **Peter Adam** - *Lead Developer*
+* **Elad Shalom** - *Instructor, Database Architect*
+
+## Licenses
+This project is released under the [MIT](https://opensource.org/licenses/MIT) License
